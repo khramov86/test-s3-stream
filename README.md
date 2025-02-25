@@ -13,10 +13,8 @@ docker compose build
 docker compose up -d
 ```
 
-Заходим в minio
-```
-http://localhost:9000
-```
+Заходим в minio http://localhost:9000
+
 Вводим логин/пароль
 
 Создаем bucket
