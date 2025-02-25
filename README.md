@@ -18,7 +18,9 @@ docker compose up -d
 http://localhost:9000
 ```
 Вводим логин/пароль
+
 Создаем bucket
+
 Cоздаем access + secret keys
 
 Загружаем сгенерированный файлик
